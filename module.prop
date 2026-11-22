@@ -1,0 +1,6 @@
+id=tfa4spk
+name=Four Speaker Fix
+version=1.2
+versionCode=3
+author=果果
+description=Fix TFA9894 four-speaker L/R routing on TB371FC (HyperOS): force correct reg23 per display rotation for all 4 amps during playback
